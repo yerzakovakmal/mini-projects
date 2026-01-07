@@ -16,7 +16,6 @@ This project demonstrates basic Python concepts such as functions, loops, condit
   - Exponentiation (power)
 - Input validation for menu selection
 - Clean and modular code structure
-- Uses `main()` and `if __name__ == "__main__"` best practice
 
 ---
 
