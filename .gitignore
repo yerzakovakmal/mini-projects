@@ -252,5 +252,7 @@ __marimo__/
 # debug information files
 *.dwo
 
-### FOR BOOKBOT ###
+### FOR BOOT.DEV/Bookbot ###
 books
+## Asteroids Game
+game_state.jsonl
